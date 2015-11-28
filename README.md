@@ -28,6 +28,6 @@ Implement an Android application that displays Logs in Logcat when the following
 
 Shows the code and the main activity
 
-![screenshot](program.png)
+![screenshot](program.PNG)
 
 ![screenshot](screen.png)
